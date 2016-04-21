@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-21T12:32:09.213Z'
-dateModified: '2016-04-21T12:32:00.054Z'
+datePublished: '2016-04-21T12:32:30.805Z'
+dateModified: '2016-04-21T12:32:21.271Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-21-the-magic-of-tonics-teas-and-essential-elixirs.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-the-magic-of-tonics-teas-and-essential-elixirs.md
-published: true
 url: the-magic-of-tonics-teas-and-essential-elixirs/index.html
 _type: Article
 
