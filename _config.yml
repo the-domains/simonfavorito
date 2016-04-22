@@ -1,4 +1,4 @@
-name: SimonFavorito
+name: Simon Favorito
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.85704
@@ -21,8 +21,8 @@ color:
     - '#ce7a5a'
     - '#e7c9be'
     - '#da9f89'
-  brandStrength: 0.6875
-  lightness: 0.5625
+  brandStrength: 0.3125
+  lightness: 0.625
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
