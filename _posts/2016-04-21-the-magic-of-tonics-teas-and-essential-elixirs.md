@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Awakening the spirit and soul by inviting the healing and sacred energies of plants into the body......Our history is filled with tales of times when this sacred ritual was commonly endowed and shared amoungst tribes and cultures across our planet.......
-datePublished: '2016-04-22T08:59:31.975Z'
-dateModified: '2016-04-22T08:59:26.883Z'
+datePublished: '2016-04-22T09:04:36.961Z'
+dateModified: '2016-04-22T09:03:05.436Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-21-the-magic-of-tonics-teas-and-essential-elixirs.md
@@ -26,6 +26,8 @@ Tonic Teas and Healing Essential Elixirs
 
 https://www.facebook.com/Our-Conscious-Kitchen-682819438494746/?ref=ts&fref=ts
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d86577a-4863-4bc6-933c-7b190bba42ad.jpg)
+
+http://www.eventbrite.com/e/essential-senses-tickets-24555790029?aff=utm\_source%3Deb\_email%26utm\_medium%3Demail%26utm\_campaign%3Dnew\_event\_email&utm\_term=eventurl\_text
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bec082ea-8509-493d-b175-e3322626cb89.jpg)
 
 Awakening the spirit and soul by inviting the healing and sacred energies of plants into the body......Our history is filled with tales of times when this sacred ritual was commonly endowed and shared amoungst tribes and cultures across our planet.......
