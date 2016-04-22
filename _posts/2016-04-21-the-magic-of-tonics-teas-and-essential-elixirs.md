@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Awakening the spirit and soul by inviting the healing and sacred energies of plants into the body......Our history is filled with tales of times when this sacred ritual was commonly endowed and shared amoungst tribes and cultures across our planet.......
-datePublished: '2016-04-22T09:12:28.490Z'
-dateModified: '2016-04-22T09:10:41.204Z'
+datePublished: '2016-04-22T09:19:26.772Z'
+dateModified: '2016-04-22T09:19:25.617Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-21-the-magic-of-tonics-teas-and-essential-elixirs.md
