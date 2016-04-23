@@ -3,11 +3,10 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: Awakening the spirit and soul by inviting the healing and sacred energies of plants into the body......Our history is filled with tales of times when this sacred ritual was commonly endowed and shared amoungst tribes and cultures across our planet.......
-datePublished: '2016-04-22T09:19:26.772Z'
-dateModified: '2016-04-22T09:19:25.617Z'
+datePublished: '2016-04-23T01:34:11.064Z'
+dateModified: '2016-04-23T01:33:55.472Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-21-the-magic-of-tonics-teas-and-essential-elixirs.md
@@ -18,10 +17,13 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: true
 url: the-magic-of-tonics-teas-and-essential-elixirs/index.html
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1af79fb-8cd9-485c-97d3-8580f60add62.jpg)
+
 Tonic Teas and Healing Essential Elixirs
 
 https://www.facebook.com/Our-Conscious-Kitchen-682819438494746/?ref=ts&fref=ts
@@ -39,4 +41,3 @@ Once upon a time we sat together and shared sacred offerings, blessed each other
 
 http://www.eventbrite.com/e/essential-senses-tickets-24555790029?aff=utm\_source%3Deb\_email%26utm\_medium%3Demail%26utm\_campaign%3Dnew\_event\_email&utm\_term=eventurl\_text
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78147ef5-cce1-4fb5-a35d-c95c79dfd5a0.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbc2eb3f-855d-4da1-80c5-f513c4f8b84d.jpg)
